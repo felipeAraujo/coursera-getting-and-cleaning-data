@@ -35,4 +35,4 @@ source('exercise2.R')
 answer_2()
 ```
 
-All the functions retrieve some data frame, you can store the result in a variable if you desire
+All the functions retrieve a data frame, you can store the result in a variable if you desire
