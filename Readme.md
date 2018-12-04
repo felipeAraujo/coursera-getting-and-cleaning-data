@@ -3,7 +3,7 @@
 
 ## R packages
 
-All the packages below will needed to be installed to run the script.
+We must have All the packages below to run the scripts.
 
 * plyr
 * dplyr
