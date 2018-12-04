@@ -31,8 +31,8 @@ answer_1()
 with the exercise in topic 5 you need to do in a similar way:
 
 ```
-source('exercise2.R')
-answer_2()
+source('run_analysis.R')
+desired_answer()
 ```
 
 All the functions retrieve a data frame, you can store the result in a variable if you desire
