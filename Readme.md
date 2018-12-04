@@ -34,3 +34,5 @@ with the exercise in topic 5 you need to do in a similar way:
 source('exercise2.R')
 answer_2()
 ```
+
+All the functions retrieve some data frame, you can store the result in a variable if you desire
