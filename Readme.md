@@ -10,7 +10,7 @@ We must have All the packages below to run the scripts.
 
 ## Files
 
-In order to the configurations below you'll need to set the working directory as the following
+In order to the configurations below you'll need to set the working directory as this current
 directory
 
 ```
