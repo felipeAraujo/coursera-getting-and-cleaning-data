@@ -8,6 +8,6 @@ All scripts are in the "source" folder. You just need to run there in alphabetic
 
 All the packages below will needed to be installed to run the script.
 
-* swirl
+* plyr
 * dplyr
 * readr
