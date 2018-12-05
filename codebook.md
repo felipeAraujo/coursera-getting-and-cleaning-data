@@ -1,9 +1,9 @@
-#Data Collection
+# Data Collection
 
-##Origin
+## Origin
 All datas came from the Folder UCI-HAR-Dataset.
 
-##Algorithm
+## Algorithm
 The algorithm to create the Dataset provided in this project was created by an R script, and doing the following steps:
 * Catch all name labels
 * Catch all datas and associate with name labels previously captured
