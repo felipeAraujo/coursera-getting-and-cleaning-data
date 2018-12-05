@@ -36,3 +36,7 @@ desired_answer()
 ```
 
 All the functions retrieve a data frame, you can store the result in a variable if you desire
+
+## Codebook
+
+The code book is available at "codebook.md" file
