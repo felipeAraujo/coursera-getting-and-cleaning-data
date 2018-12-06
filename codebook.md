@@ -12,7 +12,7 @@ The algorithm to create the Dataset provided in this project was created by an R
 * create a new column called status = test or train, wich value is based on the folder it is running (new_status)
 * bind all transformed data by columns with bind_cols R function (transformed_y, transformed_x, new_status)
 
-The steps above was runned twice, one for "test" folder and another for "train" folder, the data was merged, with bind_rows R function, and it was ready to be grouped by activity and was removed the status column (wich is not a numeric value), after that the *mean* according to activity was calculated and ready to be show.
+The steps above was runned twice, one for "test" folder and another for "train" folder, the data was merged, with bind_rows R function, and it was ready to be grouped by activity and was removed the status column (wich is not a numeric value), after that the *mean* according to activity and person is calculated and ready to be show.
 
 Example:
 ![data example](images/calculated_data_example.png)
